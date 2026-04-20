@@ -26,7 +26,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Medeiros20/Minhas-musicas.git
+git clone https://github.com/Dev-Joao-Medeiros/Minhas-musicas.git
 
 # Acesse a pasta do projeto
 cd Minhas-musicas
